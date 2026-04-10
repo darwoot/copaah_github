@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人工知能 on COPAAH</title>
+    <link>http://localhost:1313/tags/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD/</link>
+    <description>Recent content in 人工知能 on COPAAH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>youremail@example.com (COPAAH)</managingEditor>
+    <webMaster>youremail@example.com (COPAAH)</webMaster>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <atom:link href="http://localhost:1313/tags/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
